@@ -1,0 +1,360 @@
+feature,importance_mean,importance_std
+age,0.10752943862416345,0.004806545519978829
+education_ordinal,0.029310237707265884,0.0008706826743135112
+weeks worked in year,0.02282814331736549,0.0013302025840392032
+capital gains_log,0.019467328555984254,0.00028031199360935055
+tax filer stat_Nonfiler,0.011613687864874933,0.0011564440786286843
+sex_Female,0.00974625095281847,0.00021305997748192083
+dividends from stocks_log,0.006098779499189866,0.0001631751083380548
+num persons worked for employer,0.005606752584394093,0.00033031716727878056
+capital losses_log,0.003448488949678241,0.00012733643251606572
+major occupation code_Executive admin and managerial,0.0019304123532307704,0.00013302677352218818
+major occupation code_Other service,0.001568627159112479,0.0002169609652069471
+major industry code_Education,0.001493213895723522,7.157089247652119e-05
+capital gains_is_nonzero,0.0013542675331873256,7.486248347583901e-05
+wage per hour_log,0.0011460529313846335,0.00012049416385596526
+major occupation code_Sales,0.0010854256940921348,6.494893848116176e-05
+major industry code_Retail trade,0.00108469006017049,0.00020413856697038904
+major occupation code_Adm support including clerical,0.0010686689888536715,7.606985182689315e-05
+tax filer stat_Joint both under 65,0.0009695051047600601,4.8297667903331744e-05
+major occupation code_Professional specialty,0.0007510854699184,9.559631137438874e-05
+detailed household summary in household_Householder,0.0007048020154556856,0.00011486577009044624
+class of worker_Self-employed-incorporated,0.0005168604921826026,6.0544745535151296e-05
+own business or self employed_1,0.00047634453710261316,2.5060322299549422e-05
+hispanic origin_All other,0.00039253404485741774,5.1401242501594283e-05
+tax filer stat_Single,0.0003788892221173734,5.1841974172841686e-05
+major industry code_Not in universe or children,0.0003602621514534832,8.259904949946346e-05
+major industry code_Social services,0.0003429434736736514,7.535862436915517e-05
+major occupation code_Handlers equip cleaners etc,0.00034255839843906345,5.912056383333e-05
+marital_group_Divorced_or_Married,0.00033811655021425134,5.41143104126149e-05
+major occupation code_Machine operators assmblrs & inspctrs,0.0003364327898745634,6.626348129964025e-05
+class of worker_Not in universe,0.0003281671553562626,5.9561897652188035e-05
+class of worker_State government,0.0003245892994646393,6.609039781662652e-05
+wage per hour_is_nonzero,0.00031747781200812674,9.805475088620976e-05
+class of worker_Local government,0.00031111166625226173,4.538372528684122e-05
+sex_Male,0.00027114366136604673,5.223689741808305e-05
+detailed household summary in household_Child 18 or older,0.0002635813015059663,7.864426803793735e-05
+major industry code_Manufacturing-durable goods,0.0002354298209768624,1.7370138262357555e-05
+detailed household and family stat_Spouse of householder,0.00023183578545358242,1.754559580016343e-05
+major industry code_Finance insurance and real estate,0.00021176872756776267,2.0956378092996016e-05
+class of worker_Private,0.0001998961138206967,2.4387777986310633e-05
+race_White,0.0001943551292818979,5.6421148809670296e-05
+region of previous residence_Midwest,0.00016106607636467984,6.861846934880353e-05
+fill inc questionnaire for veteran's admin_No,0.00015637290452736875,7.733810249553805e-06
+own business or self employed_0,0.00015306686644842583,1.581868491597143e-05
+major occupation code_Protective services,0.00014892488073128262,1.753964999727264e-05
+class of worker_Federal government,0.00014671258575578162,2.266656325714405e-05
+hispanic origin_Mexican-American,0.0001268364475240702,7.487381937950681e-06
+race_Black,0.00012481399356067957,4.930595906977267e-05
+citizenship_Foreign born- U S citizen by naturalization,0.00012456051266391822,1.5357312091522522e-05
+dividends from stocks_is_nonzero,0.00011913386418913597,4.0212896066845785e-05
+full or part time employment stat_Children or Armed Forces,0.00011837881470948553,3.5744536343860806e-05
+state of previous residence_North Dakota,0.00010778115594105575,2.5487781354927267e-06
+member of a labor union_No,0.00010385274136242018,3.4572295387368555e-06
+class of worker_Self-employed-not incorporated,0.00010150885204902593,2.336462804346847e-05
+major industry code_Medical except hospital,9.672075970577066e-05,2.6825698693324993e-05
+own business or self employed_2,9.544796201141904e-05,1.25875942129946e-05
+detailed household and family stat_Nonfamily householder,9.531744631561257e-05,1.3124178446290862e-05
+member of a labor union_Not in universe,9.479214760617083e-05,4.314590208810178e-05
+major industry code_Wholesale trade,9.192727415183733e-05,1.5784997730845728e-06
+enroll in edu inst last wk_College or university,8.674547743698912e-05,9.443904408367284e-07
+major occupation code_Transportation and material moving,8.528823194113855e-05,1.4907272253925469e-05
+major industry code_Transportation,8.512751426617004e-05,4.140557610013767e-05
+country of birth father_Mexico,8.362280851734739e-05,2.3587946991152243e-05
+live in this house 1 year ago_Yes,7.99219874247914e-05,1.2294531545406678e-05
+hispanic origin_Mexican (Mexicano),7.16477237695745e-05,2.8725973934528878e-05
+major industry code_Construction,6.938041804633865e-05,1.8192657687040264e-05
+major industry code_Public administration,6.84517071862345e-05,9.679695746500446e-06
+detailed household summary in household_Other relative of householder,6.7579085716174e-05,0.00010873197637362758
+hispanic origin_Other Spanish,6.516508466538617e-05,3.7031425417187483e-06
+hispanic origin_missing,6.215675180989421e-05,7.960311567394866e-06
+enroll in edu inst last wk_High school,6.0895819178785615e-05,6.346750228928851e-05
+country of birth father_United-States,6.0855909420598485e-05,1.9584780552628196e-05
+full or part time employment stat_Full-time schedules,5.308645027468639e-05,1.3073015776563954e-05
+full or part time employment stat_Not in labor force,5.247162426971208e-05,1.9552429414198158e-05
+major industry code_Personal services except private HH,5.157203674672761e-05,1.9782336243415433e-05
+major occupation code_Precision production craft & repair,4.580238007991788e-05,2.938820578425941e-05
+major industry code_Utilities and sanitary services,4.416068678261276e-05,1.1824170789843735e-05
+major industry code_Mining,4.0623819291374375e-05,7.459555090397595e-06
+tax filer stat_Head of household,4.0522426932643185e-05,9.488279876095033e-06
+country of birth self_Scotland,4.047604532175786e-05,4.909945253727606e-06
+hispanic origin_Central or South American,3.865529743358742e-05,8.013658032131384e-06
+full or part time employment stat_Unemployed part- time,3.820118910364822e-05,1.3916276876198611e-05
+state of previous residence_Montana,3.733503948626371e-05,3.6634427828519894e-05
+major occupation code_Technicians and related support,3.3567342582641047e-05,6.317351882095935e-06
+major industry code_Business and repair services,3.28845621245577e-05,8.31407349716932e-06
+region of previous residence_South,3.285975335591829e-05,3.076381103005594e-07
+country of birth mother_United-States,3.2831708660996385e-05,1.8625743785065648e-05
+detailed household and family stat_Child 18+ never marr Not in a subfamily,3.240348774173896e-05,1.4634863959219996e-05
+country of birth mother_missing,3.1000174351669686e-05,3.5842792164381597e-06
+citizenship_Foreign born- Not a citizen of U S,2.9431828718173847e-05,1.04588525634359e-05
+full or part time employment stat_PT for econ reasons usually FT,2.803606582286733e-05,9.127734443795178e-07
+major industry code_Agriculture,2.720119682673161e-05,7.655378945467831e-06
+country of birth father_Ireland,2.704695100448351e-05,1.3130933405279885e-05
+country of birth father_Scotland,2.6753560349490613e-05,6.559340206855865e-06
+veterans benefits,2.6098824586440195e-05,9.364160799509444e-06
+country of birth father_Canada,2.5654424035503886e-05,3.711302340405685e-06
+reason for unemployment_Other job loser,2.5483998581532496e-05,7.617286601093923e-06
+race_Asian or Pacific Islander,2.4722477249095042e-05,1.4796720363339363e-05
+detailed household and family stat_Secondary individual,2.2527440547492895e-05,1.545917915417396e-05
+major industry code_Manufacturing-nondurable goods,2.0934286145335433e-05,1.3236375969163248e-06
+detailed household and family stat_Other Rel 18+ never marr not in subfamily,2.0753074270252193e-05,1.3783559414747983e-05
+country of birth father_Hong Kong,2.045860497310592e-05,9.697926981592574e-06
+major occupation code_Farming forestry and fishing,1.975964488341031e-05,2.1122244461876637e-05
+citizenship_Native- Born abroad of American Parent(s),1.960539906107339e-05,1.775331854944672e-05
+reason for unemployment_Not in universe,1.8843877728724757e-05,7.187062905215833e-06
+member of a labor union_Yes,1.7767392899092904e-05,3.520496183871434e-06
+country of birth mother_Dominican-Republic,1.692928797663029e-05,1.3241402852706086e-07
+region of previous residence_West,1.5495772607398983e-05,8.764527320779774e-06
+country of birth mother_Poland,1.5254156773880644e-05,6.521994712605516e-06
+country of birth mother_Haiti,1.5233662573699292e-05,7.2936353657382724e-06
+tax filer stat_Joint one under 65 & one 65+,1.4348097398220183e-05,5.036288031145165e-06
+country of birth self_missing,1.4284457513524806e-05,2.00990595281834e-06
+country of birth self_United-States,1.4210031207717577e-05,3.035511256196837e-06
+major industry code_Hospital services,1.3512149760042114e-05,7.190080270887386e-06
+family members under 18_Both parents present,1.3381634064213443e-05,3.458958881317645e-06
+state of previous residence_Mississippi,1.2719347806378067e-05,7.581211830111678e-06
+country of birth father_Italy,1.1875849673304018e-05,4.153654569878448e-06
+country of birth self_Columbia,1.1805737935910443e-05,1.5272063224841983e-05
+major occupation code_Private household services,1.1732390272212178e-05,2.4925367039223565e-05
+country of birth father_Guatemala,1.122327119447153e-05,2.96049124159071e-05
+marital_group_Other,1.120493427853031e-05,1.632163366864794e-05
+class of worker_Without pay,1.08834989285711e-05,2.608412785030032e-05
+live in this house 1 year ago_Not in universe under 1 year old,1.0527547030991791e-05,9.983940772338035e-06
+state of previous residence_Pennsylvania,1.0323683671509265e-05,1.098578454124049e-05
+race_Amer Indian Aleut or Eskimo,9.634431360749928e-06,6.0984755811800195e-06
+country of birth mother_Nicaragua,9.500679738705387e-06,8.512952579873123e-06
+country of birth mother_England,8.708956427039282e-06,2.2341654532171463e-06
+state of previous residence_Indiana,8.653945679260034e-06,1.1904629827860635e-05
+major industry code_Entertainment,8.63668740542778e-06,3.3311248797034896e-06
+state of previous residence_Georgia,8.617271847444207e-06,5.118814770893216e-06
+fill inc questionnaire for veteran's admin_Not in universe,8.37673465601263e-06,2.0795408719425976e-06
+country of birth mother_Philippines,8.281814150046251e-06,8.409646228122631e-07
+country of birth mother_Italy,7.840649525436838e-06,1.849553265753437e-06
+hispanic origin_Puerto Rican,7.617370607904128e-06,2.6939237414107087e-06
+region of previous residence_Not in universe,7.213958457286118e-06,8.122601692456955e-06
+state of previous residence_Florida,6.681109253103834e-06,1.2635609849620465e-06
+reason for unemployment_Re-entrant,5.5862875075529676e-06,9.142034019807064e-06
+country of birth self_Germany,5.331727968660438e-06,1.808666375999583e-06
+state of previous residence_Alaska,5.303683273716331e-06,1.5712991035113397e-06
+citizenship_Native- Born in Puerto Rico or U S Outlying,5.053438303259661e-06,2.1205045040670563e-06
+hispanic origin_Cuban,4.415960814041497e-06,1.7144642314040438e-07
+country of birth self_Nicaragua,4.009312737118798e-06,5.423810696026611e-06
+enroll in edu inst last wk_Not in universe,3.986661252719515e-06,1.741298572614634e-06
+country of birth mother_Honduras,3.7170007242348647e-06,6.709548802699529e-06
+country of birth father_China,3.4753848907609353e-06,1.5740785172139633e-07
+capital losses_is_nonzero,3.384778953186007e-06,2.6051420069611672e-06
+country of birth father_Poland,2.884289012361485e-06,1.037575223074754e-06
+country of birth mother_Cuba,2.6836615792280584e-06,7.420995031063541e-07
+state of previous residence_Oklahoma,2.5693255151004734e-06,1.673688340346871e-06
+state of previous residence_Vermont,2.520786620019422e-06,2.515262044810471e-06
+full or part time employment stat_PT for econ reasons usually PT,2.4312593245756632e-06,1.5587681072418362e-06
+state of previous residence_Missouri,2.2975077024867117e-06,6.256101943478178e-06
+state of previous residence_Abroad,2.2133736175655725e-06,2.5091487754922835e-06
+country of birth self_Cuba,1.8585003621174323e-06,2.392944130902416e-06
+major industry code_Private household services,1.7959391195088158e-06,5.8879831446358245e-06
+detailed household summary in household_Nonrelative of householder,1.6104126759231007e-06,1.1518392830482224e-06
+hispanic origin_Do not know,1.5564805702528161e-06,1.705031258258758e-06
+state of previous residence_Maryland,1.5144135278255534e-06,1.4094943012420225e-06
+country of birth mother_Mexico,1.3202579473015064e-06,9.985261248592805e-06
+state of previous residence_New Mexico,9.945080289286423e-07,1.0290132699998332e-06
+state of previous residence_California,9.017448070913758e-07,9.67238297295148e-07
+country of birth self_Portugal,6.946455213041603e-07,1.1514846846100482e-06
+country of birth father_England,5.350064884446226e-07,2.017493316961234e-07
+class of worker_Never worked,4.853889512101972e-07,1.905286481960154e-05
+country of birth father_missing,4.843103091012324e-07,8.467489266328585e-06
+country of birth father_Ecuador,4.4979376143672314e-07,3.9482465412988535e-06
+country of birth father_Germany,3.7105288710481685e-07,1.3264684447111106e-06
+country of birth self_England,2.1357113852982223e-07,1.780934492995921e-06
+country of birth mother_China,1.1649334825669655e-07,4.2947839435851755e-07
+detailed household and family stat_Other Rel 18+ ever marr not in subfamily,1.1217877973201951e-07,4.789268159430547e-07
+state of previous residence_Colorado,6.256124260861639e-08,2.6641805154709694e-07
+country of birth self_Taiwan,6.040395830186896e-08,1.8565182471910376e-07
+country of birth father_Taiwan,4.098840027388917e-08,9.848185623623127e-08
+country of birth mother_Puerto-Rico,3.0201979184241165e-08,4.741961002248946e-06
+region of previous residence_Northeast,1.5100989547711664e-08,6.338745716963684e-07
+country of birth mother_India,0.0,0.0
+country of birth mother_Hong Kong,0.0,0.0
+country of birth mother_Iran,0.0,0.0
+country of birth mother_Hungary,0.0,0.0
+tax filer stat_Joint both 65+,0.0,0.0
+country of birth mother_Holand-Netherlands,0.0,0.0
+major industry code_Other professional services,0.0,0.0
+country of birth father_Philippines,0.0,0.0
+country of birth father_Puerto-Rico,0.0,0.0
+hispanic origin_Chicano,0.0,0.0
+country of birth father_South Korea,0.0,0.0
+country of birth father_Thailand,0.0,0.0
+country of birth father_Trinadad&Tobago,0.0,0.0
+country of birth mother_Cambodia,0.0,0.0
+country of birth mother_Guatemala,0.0,0.0
+country of birth mother_Canada,0.0,0.0
+country of birth mother_Columbia,0.0,0.0
+country of birth mother_Ecuador,0.0,0.0
+country of birth mother_El-Salvador,0.0,0.0
+country of birth mother_Germany,0.0,0.0
+country of birth mother_Greece,0.0,0.0
+country of birth mother_Ireland,0.0,0.0
+country of birth self_China,0.0,0.0
+country of birth mother_Jamaica,0.0,0.0
+country of birth mother_Japan,0.0,0.0
+country of birth self_India,0.0,0.0
+country of birth self_Iran,0.0,0.0
+country of birth self_Italy,0.0,0.0
+country of birth self_Jamaica,0.0,0.0
+country of birth self_Japan,0.0,0.0
+country of birth self_Laos,0.0,0.0
+country of birth self_Outlying-U S (Guam USVI etc),0.0,0.0
+country of birth self_Panama,0.0,0.0
+country of birth self_Peru,0.0,0.0
+country of birth self_Philippines,0.0,0.0
+country of birth self_Puerto-Rico,0.0,0.0
+country of birth self_South Korea,0.0,0.0
+country of birth self_Thailand,0.0,0.0
+country of birth self_Trinadad&Tobago,0.0,0.0
+country of birth self_Vietnam,0.0,0.0
+country of birth self_Yugoslavia,0.0,0.0
+citizenship_Native- Born in the United States,0.0,0.0
+weeks worked in year_is_nonzero,0.0,0.0
+fill inc questionnaire for veteran's admin_Yes,0.0,0.0
+num persons worked for employer_is_nonzero,0.0,0.0
+major occupation code_Not in universe,0.0,0.0
+country of birth self_Hungary,0.0,0.0
+country of birth self_Hong Kong,0.0,0.0
+country of birth self_Honduras,0.0,0.0
+race_Other,0.0,0.0
+country of birth mother_Laos,0.0,0.0
+country of birth mother_Outlying-U S (Guam USVI etc),0.0,0.0
+country of birth mother_Panama,0.0,0.0
+country of birth mother_Peru,0.0,0.0
+country of birth mother_Scotland,0.0,0.0
+country of birth mother_South Korea,0.0,0.0
+country of birth mother_Taiwan,0.0,0.0
+country of birth mother_Thailand,0.0,0.0
+country of birth mother_Trinadad&Tobago,0.0,0.0
+country of birth self_Cambodia,0.0,0.0
+country of birth self_Holand-Netherlands,0.0,0.0
+country of birth self_Canada,0.0,0.0
+country of birth father_Panama,0.0,0.0
+country of birth self_Dominican-Republic,0.0,0.0
+country of birth self_Ecuador,0.0,0.0
+country of birth self_El-Salvador,0.0,0.0
+country of birth self_France,0.0,0.0
+country of birth self_Greece,0.0,0.0
+country of birth self_Guatemala,0.0,0.0
+country of birth self_Haiti,0.0,0.0
+country of birth father_Peru,0.0,0.0
+country of birth father_Haiti,0.0,0.0
+country of birth father_Outlying-U S (Guam USVI etc),0.0,0.0
+detailed household and family stat_Child 18+ ever marr RP of subfamily,0.0,0.0
+state of previous residence_South Carolina,0.0,0.0
+state of previous residence_South Dakota,0.0,0.0
+state of previous residence_Tennessee,0.0,0.0
+state of previous residence_Texas,0.0,0.0
+state of previous residence_Utah,0.0,0.0
+state of previous residence_Virginia,0.0,0.0
+state of previous residence_West Virginia,0.0,0.0
+state of previous residence_Wisconsin,0.0,0.0
+state of previous residence_Wyoming,0.0,0.0
+state of previous residence_missing,0.0,0.0
+detailed household and family stat_Child 18+ spouse of subfamily RP,0.0,0.0
+detailed household and family stat_Grandchild <18 never marr RP of subfamily,0.0,0.0
+detailed household and family stat_Child <18 ever marr RP of subfamily,0.0,0.0
+detailed household and family stat_Child <18 ever marr not in subfamily,0.0,0.0
+detailed household and family stat_Child <18 never marr RP of subfamily,0.0,0.0
+detailed household and family stat_Child <18 never marr not in subfamily,0.0,0.0
+detailed household and family stat_Child <18 spouse of subfamily RP,0.0,0.0
+detailed household and family stat_Child under 18 of RP of unrel subfamily,0.0,0.0
+detailed household and family stat_Grandchild 18+ ever marr RP of subfamily,0.0,0.0
+detailed household and family stat_Grandchild 18+ ever marr not in subfamily,0.0,0.0
+country of birth father_Nicaragua,0.0,0.0
+detailed household and family stat_Grandchild 18+ never marr not in subfamily,0.0,0.0
+state of previous residence_Oregon,0.0,0.0
+state of previous residence_Ohio,0.0,0.0
+state of previous residence_Not in universe,0.0,0.0
+state of previous residence_North Carolina,0.0,0.0
+major industry code_Communications,0.0,0.0
+region of previous residence_Abroad,0.0,0.0
+major industry code_Armed Forces,0.0,0.0
+state of previous residence_Alabama,0.0,0.0
+state of previous residence_Arizona,0.0,0.0
+state of previous residence_Arkansas,0.0,0.0
+state of previous residence_Connecticut,0.0,0.0
+state of previous residence_Delaware,0.0,0.0
+state of previous residence_District of Columbia,0.0,0.0
+state of previous residence_Idaho,0.0,0.0
+state of previous residence_Kansas,0.0,0.0
+state of previous residence_Kentucky,0.0,0.0
+state of previous residence_Louisiana,0.0,0.0
+state of previous residence_Maine,0.0,0.0
+state of previous residence_Massachusetts,0.0,0.0
+state of previous residence_Michigan,0.0,0.0
+state of previous residence_Minnesota,0.0,0.0
+state of previous residence_Nebraska,0.0,0.0
+state of previous residence_New Hampshire,0.0,0.0
+state of previous residence_New Jersey,0.0,0.0
+state of previous residence_New York,0.0,0.0
+detailed household and family stat_Grandchild 18+ spouse of subfamily RP,0.0,0.0
+detailed household and family stat_Grandchild 18+ never marr RP of subfamily,0.0,0.0
+detailed household and family stat_Grandchild <18 never marr child of subfamily RP,0.0,0.0
+country of birth father_Dominican-Republic,0.0,0.0
+live in this house 1 year ago_No,0.0,0.0
+major industry code_Forestry and fisheries,0.0,0.0
+detailed household and family stat_Grandchild <18 never marr not in subfamily,0.0,0.0
+family members under 18_Father only present,0.0,0.0
+family members under 18_Mother only present,0.0,0.0
+family members under 18_Neither parent present,0.0,0.0
+family members under 18_Not in universe,0.0,0.0
+country of birth father_Cambodia,0.0,0.0
+country of birth father_Columbia,0.0,0.0
+country of birth father_Cuba,0.0,0.0
+country of birth father_El-Salvador,0.0,0.0
+major occupation code_Armed Forces,0.0,0.0
+country of birth father_France,0.0,0.0
+country of birth father_Greece,0.0,0.0
+country of birth father_Holand-Netherlands,0.0,0.0
+country of birth father_Honduras,0.0,0.0
+country of birth father_Hungary,0.0,0.0
+country of birth father_India,0.0,0.0
+country of birth father_Iran,0.0,0.0
+country of birth father_Jamaica,0.0,0.0
+country of birth father_Japan,0.0,0.0
+country of birth father_Laos,0.0,0.0
+detailed household summary in household_Spouse of householder,0.0,0.0
+detailed household and family stat_Grandchild <18 ever marr not in subfamily,0.0,0.0
+detailed household and family stat_Other Rel <18 ever marr RP of subfamily,0.0,0.0
+detailed household and family stat_Other Rel <18 never married RP of subfamily,0.0,0.0
+detailed household and family stat_Other Rel 18+ ever marr RP of subfamily,0.0,0.0
+detailed household and family stat_Other Rel 18+ never marr RP of subfamily,0.0,0.0
+reason for unemployment_New entrant,0.0,0.0
+detailed household and family stat_Other Rel 18+ spouse of subfamily RP,0.0,0.0
+detailed household summary in household_Group Quarters- Secondary individual,0.0,0.0
+detailed household and family stat_Other Rel <18 ever marr not in subfamily,0.0,0.0
+detailed household and family stat_Other Rel <18 never marr child of subfamily RP,0.0,0.0
+detailed household and family stat_Other Rel <18 never marr not in subfamily,0.0,0.0
+detailed household and family stat_In group quarters,0.0,0.0
+detailed household summary in household_Child under 18 never married,0.0,0.0
+detailed household and family stat_Other Rel <18 spouse of subfamily RP,0.0,0.0
+detailed household and family stat_RP of unrelated subfamily,0.0,0.0
+reason for unemployment_Job loser - on layoff,0.0,0.0
+detailed household and family stat_Spouse of RP of unrelated subfamily,0.0,0.0
+reason for unemployment_Job leaver,0.0,0.0
+detailed household summary in household_Child under 18 ever married,0.0,0.0
+state of previous residence_Iowa,-1.2943705374190984e-07,0.0
+state of previous residence_Nevada,-1.7258273825593308e-07,6.398448287035643e-07
+detailed household and family stat_Child 18+ ever marr Not in a subfamily,-4.088053612072429e-07,6.042749515350337e-06
+country of birth self_Poland,-4.7028796170689444e-07,1.4254409592977346e-07
+country of birth mother_Yugoslavia,-6.234551418682343e-07,4.058906053410184e-08
+state of previous residence_Illinois,-6.266910681729243e-07,5.010568367662117e-07
+country of birth mother_France,-6.342415629356779e-07,3.92269971945617e-07
+full or part time employment stat_PT for non-econ reasons usually FT,-6.363988471980164e-07,3.497196609410744e-07
+country of birth father_Yugoslavia,-6.709153948181168e-07,8.22601641418299e-08
+country of birth father_Vietnam,-7.032746582424921e-07,3.3000103182692785e-08
+country of birth father_Portugal,-9.804856815120998e-07,8.80639780896886e-07
+country of birth self_Ireland,-1.0398109977938219e-06,7.597738215788773e-06
+detailed household and family stat_Child 18+ never marr RP of subfamily,-1.0872712507881132e-06,2.781342222362713e-06
+country of birth mother_Vietnam,-1.2684831259823781e-06,6.774009883203007e-08
+full or part time employment stat_Unemployed full-time,-1.5111776015208634e-06,1.8009008215982328e-06
+detailed household and family stat_Householder,-5.511861201745738e-06,1.8720875984657892e-05
+country of birth self_Mexico,-6.2097426493767925e-06,4.2733734146765955e-06
+country of birth mother_Portugal,-1.4256412818647312e-05,1.5729303423711847e-05
